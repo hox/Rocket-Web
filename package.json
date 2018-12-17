@@ -1,0 +1,17 @@
+{
+  "name": "rocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luke#1000, Ceaser#1000",
+  "license": "MIT",
+  "devDependencies": {
+    "bulma": "^0.7.2"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

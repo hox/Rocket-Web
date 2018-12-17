@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+#home .title {
+    font-size: 60px;
+}
+
+main {
+    margin-top: 80px !important;
+}
+
+@media (max-width: 769px) {
+    main {
+        margin-top: 30px !important;
+    }
+}
+
+// Update Bulma's global variables
+$primary: #62AAC0;
+$link: $primary;
+$breadcrumb-item-color: #3273dc;
+
+@import "../../../node_modules/bulma/bulma.sass";
+@import "https://use.fontawesome.com/releases/v5.6.1/css/all.css";

@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+
+# old version of the website
+old/
+
+# cache's from the sass compiler
+.sass-cache/
